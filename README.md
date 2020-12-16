@@ -5,7 +5,7 @@
 
 ---
 
-Atualmente sou aluna da turma de back-end da [{reprograma}](http://reprograma.com.br "{reprograma}") em parceria com o M.I.N.As do Porto Digital de Recife, focado em desenvolvimento em Node.js.
+Formação: turma 07 de back-end da [{reprograma}](http://reprograma.com.br "{reprograma}") em parceria com o M.I.N.As do Porto Digital de Recife, focado em desenvolvimento em Node.js.
 
 Desenvolvedora web com foco em backend. Estou sempre em busca de aprimorar conhecimentos e habilidades através de cursos, projetos e muita vontade de aprender.
 
