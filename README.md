@@ -20,8 +20,5 @@ Algumas das minhas habilidades são:
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=TairineEllen&show_icons=true&title_color=2F2E41&icon_color=2F2E41&text_color=6C63FF&bg_color=E6E6E6"/> </p>
-
-
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nadyluna/)](https://www.linkedin.com/in/tairineellen/)
 
