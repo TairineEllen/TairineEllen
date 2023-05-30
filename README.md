@@ -12,12 +12,11 @@ Desenvolvedora web com foco em backend. Estou sempre em busca de aprimorar conhe
 <img src="https://i.ibb.co/5Gr2mFr/undraw-a-better-world-9xfd.png" alt="mulher em pé em frente a uma janela" width ="200" align="left" padding="10"/>
 
 Algumas das minhas habilidades são:
-- HTML e CSS
 - JavaScript
+- TypeScript
 - Node.js
-- MongoDB
-- Python
-- SQL, MySQL
+- NestJS
+- Bancos não relacionais
 
 ---
 
